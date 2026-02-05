@@ -1,22 +1,23 @@
-ROHEN: QUERPLATZ v3.0 (HFR Edition) 🚀
+ROHEN: QUERPLATZ v3.0 (HFR Edition)
 The Ultimate 2D-Matrix Video Converter for Architects.
-Motion 60 is coming.
-🛠 HARDWARE PROPULSION
+HARDWARE PROPULSION:
 
-    INTEL QSV (Native & Primary)
+    INTEL QSV (Native)
     NVIDIA NVENC / AMD AMF
     CPU (Iron Basis)
 
-📊 TECH SPECS
+TECH SPECS:
 
-    HFR POWER: Advanced Motion Interpolation (50/60 FPS Mastering)
-    NEURAL LOGIC: Enhanced Fast / Optical Flow Integration
-    AUDIO STACK: Precision Gain Shift (0 to +3dB) / Copy / Mute
+    HFR POWER: Motion 60 is coming (50/60 FPS Mastering)
+    ALGORITHM: Enhanced Fast / Optical Flow Neural Logic
+    AUDIO STACK: 0 to +3dB Gain Shift / Copy / Mute
     INTERFACE: 300x600 Zero Viscosity UI (VOL / FPS Stack)
-    TIME MATRIX: Japanese 2x3 Logic (No Colons, No Shifts)
+    MATRIX: Japanese 2x3 Time Matrix (No Colons, No Shifts)
 
-🚀 DEPLOYMENT
+DEPLOYMENT:
 
-    Launch converter_start.py.
-    Select your Target FPS (48, 50, 60).
+    Run converter_start.py.
+    Select your Target FPS.
     BAЦ! — Enjoy the speed.
+
+*Created by LichtWerk // Rohenwerk 2026*
